@@ -3,4 +3,4 @@ PROJECT:-SHORT TERM LOAD FORECASTING(With Deep Residual Networks)
 
 Submitted to: Prof. AMRITANSHU PANDEY (department of electronics engineering)
 
-Submitted by:- Sanika jain-roll no.-19095086 : Shivangee Pandey-roll no.-19095088
+Submitted by:- SANIKA JAIN-roll no.-19095086 : SHIVANGEE PANDEY-roll no.-19095088
